@@ -11,6 +11,7 @@ Claude Skills and agents built from our delivery and pre-sales work.
 | `incident-rca` | Root cause analysis for a production incident |
 | `project-handover-brief` | HANDOVER.md + CLAUDE.md for a project or POC |
 | `nanostuffs-code-review` | Code review against our React / React Native / Node.js standards |
+| `postgresql-query-expert` | Write, debug, and optimize PostgreSQL queries without changing business logic |
 
 ## Use the skills
 
